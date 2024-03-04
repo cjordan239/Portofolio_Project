@@ -15,7 +15,7 @@ const AboutSection: React.FC = () => {
                      initial={{opacity:0, y:100}}
                      animate={{opacity:1, y:100}}
                     >
-                      Hello! My name is Jordan. I have a bachelor in management, but I'm currently in the process of transitioning to a career as a front-end developer. I'm excited to embark on this new journey and learn more about web development!
+                      Hello! My name is Jordan. I have a bachelor in management, but I'm currently in the process of transitioning to a career as a front-end developer. I'm excited to embark on this new journey and learn more about web development and tech !
                     </motion.h2>
                 </div>
                 <div className='flex flex-row'>
